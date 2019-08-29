@@ -28,7 +28,7 @@ const db = {
       answer: "1995"
     }),
     createEntity({
-      question: "Who's the longest running character on Hollyoaks?",
+      question: "Wh",
       options: ["Tony", "Jason", "Mercedes"],
       answer: "Tony"
     }),
